@@ -3,6 +3,8 @@ body {
 }
 
 .well {
-  min-height: 1000px; /* ensures scrolling */
+  min-height: 700px; /* tall enough for scrolling */
   background-color: #f2f2f2;
+  margin-bottom: 20px;
 }
+
