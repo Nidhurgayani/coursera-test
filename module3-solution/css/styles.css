@@ -1,0 +1,8 @@
+body {
+  padding-top: 20px;
+}
+
+.well {
+  min-height: 1000px; /* ensures scrolling */
+  background-color: #f2f2f2;
+}
